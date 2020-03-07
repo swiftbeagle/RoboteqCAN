@@ -31,8 +31,11 @@ Useful Links:
 + `data` contains the data to be uploaded (the response will only contain data if request object is a query format)
 
 >If you would like to learn conversions between Binary, Decimal, and Hexidecimal you can view these videos:
-https://www.khanacademy.org/math/algebra-home/alg-intro-to-algebra/algebra-alternate-number-bases/v/decimal-to-hexadecimal
-https://www.khanacademy.org/math/algebra-home/alg-intro-to-algebra/algebra-alternate-number-bases/v/binary-to-hexadecimal
-https://www.khanacademy.org/math/algebra-home/alg-intro-to-algebra/algebra-alternate-number-bases/v/decimal-to-binary
+
+>https://www.khanacademy.org/math/algebra-home/alg-intro-to-algebra/algebra-alternate-number-bases/v/decimal-to-hexadecimal
+
+>https://www.khanacademy.org/math/algebra-home/alg-intro-to-algebra/algebra-alternate-number-bases/v/binary-to-hexadecimal
+
+>https://www.khanacademy.org/math/algebra-home/alg-intro-to-algebra/algebra-alternate-number-bases/v/decimal-to-binary
 
 >Please see page 33 and onward to view available commands/queries in the [CAN networking manual](https://www.generationrobots.com/media/roboteq/can-networking-manual.pdf#page=33).
